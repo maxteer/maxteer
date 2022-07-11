@@ -1,7 +1,7 @@
 ### Welcome to my git universe, my name is Ryan Lucas. 🚀
 
 - 🔭 Currently unemployed.
-- ⚡ My main skills are with the languages: Java, JavaScript, Typescript, Kotlin.
+- ⚡ My main skills are with the languages: JavaScript, Typescript, Java and Kotlin.
 
 <div>
   <a href="https://www.linkedin.com/in/ryanlucasvc" target="_blank">
